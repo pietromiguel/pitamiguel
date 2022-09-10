@@ -1,7 +1,3 @@
 ### Olá!! Eu sou o Pietro Miguel
 
-- 🔭 Hoje trabalho com front-end
-- 😄 Pronomes: ele/dele
-<!--
-- 🌱 Estou estudando 
--->
+-📒Sou estudante de Cibersegurança
